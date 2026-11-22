@@ -1,0 +1,320 @@
+{
+  "cv": {
+    "mainInfo": {
+      "firstName": "Serhii",
+      "lastName": "Staryk",
+      "contactNo": "+38 0678552889",
+      "email": "serhii.staryk@gmail.com",
+      "itStartDate": "2022-07",
+      "professionalStartDate": "2016-06",
+      "address": {
+        "country": "Ukraine",
+        "city": "Lviv"
+      }
+    },
+    "summary": "Software Engineer with {commercialExperience}+ years of commercial experience in front-end development and over {professionalExperience} years of overall professional experience. Specialized in designing, developing, and maintaining enterprise web applications using React, Next.js, JavaScript, and TypeScript. Experienced in building scalable and maintainable user interfaces, establishing application architecture, improving code quality, implementing state management solutions, developing automated tests, and conducting code reviews. Participated in all phases of the software development lifecycle, from requirements analysis and solution implementation to testing, deployment support, and ongoing maintenance. Proven ability to collaborate effectively within Agile/Scrum teams and work closely with cross-functional stakeholders to deliver business value. Strong team player with mentoring experience, a proactive mindset, and a passion for continuous learning and modern software engineering practices",
+    "technicalSkills": {
+      "title": "Technical Skills",
+      "categories": [
+        {
+          "title": "Programming Languages",
+          "skills": [
+            "JavaScript (ES6+)",
+            "TypeScript",
+            "HTML5",
+            "CSS3",
+            "Sass (SCSS)"
+          ]
+        },
+        {
+          "title": "Methodologies & Practices",
+          "skills": [
+            "Agile",
+            "Scrum",
+            "Code Review",
+            "Pair Programming",
+            "Component-Driven Development",
+            "Responsive Web Design",
+            "Team Mentoring",
+            "Technical Mentoring",
+            "Knowledge Sharing"
+          ]
+        },
+        {
+          "title": "Databases & Backend Integration",
+          "skills": ["Firebase", "REST API Integration"]
+        },
+        {
+          "title": "Operating Systems",
+          "skills": ["Microsoft Windows", "macOS"]
+        },
+        {
+          "title": "Build & Development Tools",
+          "skills": [
+            "Vite",
+            "Storybook",
+            "ESLint",
+            "Prettier",
+            "Husky",
+            "Commitlint"
+          ]
+        },
+        {
+          "title": "Frameworks/Libraries",
+          "skills": [
+            "React 18",
+            "Next.js",
+            "Redux Toolkit",
+            "RTK Query",
+            "React Hook Form",
+            "Material UI",
+            "Material React Table",
+            "Styled Components",
+            "Emotion",
+            "Lodash",
+            "React Router"
+          ]
+        },
+        {
+          "title": "Testing",
+          "skills": [
+            "Jest",
+            "React Testing Library",
+            "Mock Service Worker (MSW)"
+          ]
+        },
+        {
+          "title": "Version Control & DevOps",
+          "skills": ["Git", "GitHub", "GitLab", "Azure DevOps"]
+        },
+        {
+          "title": "AI-Assisted Development",
+          "skills": ["GitHub Copilot", "Claude Code"]
+        }
+      ]
+    },
+    "workExperience": {
+      "title": "work experience",
+      "workPlaces": [
+        {
+          "companyName": "SoftServe",
+          "position": "Software Engineer",
+          "address": {
+            "country": "Ukraine",
+            "city": "Lviv"
+          },
+          "duration": {
+            "start": "Dec 2024",
+            "finish": "Present"
+          },
+          "responsibilities": [
+            "Developed and maintain the OMS web application using React, TypeScript, and Material UI",
+            "Designed and developed reusable UI components and complex business workflows for operational management processes",
+            "Integrated backend services through RTK Query, ensuring efficient data caching and synchronization",
+            "Improved application maintainability through architecture refactoring",
+            "Implemented client-side state management and error handling",
+            "Reduced code duplication through reusable component implementation",
+            "Wrote and maintained component tests using Jest and React Testing Library"
+          ],
+          "techStack": [
+            "React 18",
+            "TypeScript",
+            "Vite",
+            "Redux Toolkit",
+            "RTK Query",
+            "Material UI",
+            "Material React Table",
+            "Emotion",
+            "React Hook Form",
+            "Zod",
+            "React Router",
+            "Day.js",
+            "Azure MSAL",
+            "Jest",
+            "React Testing Library",
+            "MSW",
+            "Storybook",
+            "ESLint",
+            "Husky",
+            "Commitlint",
+            "Azure DevOps",
+            "Git",
+            "Scrum"
+          ]
+        },
+        {
+          "companyName": "Amous International",
+          "position": "Software Engineer",
+          "address": {
+            "country": "Ukraine",
+            "city": "Lviv"
+          },
+          "duration": {
+            "start": "Apr 2023",
+            "finish": "Dec 2024"
+          },
+          "responsibilities": [
+            "Developed and enhanced user-facing features using React and Next.js",
+            "Participated in modernization and redesign of the company website",
+            "Configured project architecture and established ESLint standards",
+            "Implemented responsive and mobile-friendly UI solutions",
+            "Improved application stability and maintainability through defect resolution and codebase enhancements",
+            "Performed code reviews and promoted coding best practices",
+            "Contributed to migration from legacy solutions to modern React architecture"
+          ],
+          "techStack": [
+            "React 18",
+            "Next.js",
+            "JavaScript",
+            "Redux",
+            "Styled Components",
+            "Ramda",
+            "Formik",
+            "Git",
+            "ESLint",
+            "Agile/Scrum"
+          ]
+        },
+        {
+          "companyName": "EPAM Systems, Inc.",
+          "position": "Software Engineer",
+          "address": {
+            "country": "Ukraine",
+            "city": "Lviv"
+          },
+          "duration": {
+            "start": "Jul 2022",
+            "finish": "Mar 2023"
+          },
+          "responsibilities": [
+            "Implemented new features and supported existing functionality",
+            "Performed code cleanup and feature flag removal activities",
+            "Integrated user analytics and event tracking through Segment",
+            "Developed and executed unit and integration tests",
+            "Participated in code reviews and quality assurance activities",
+            "Worked within a micro-frontend environment"
+          ],
+          "techStack": [
+            "Angular 12",
+            "TypeScript",
+            "JavaScript",
+            "NgRx",
+            "RxJS",
+            "Lodash",
+            "Jasmine",
+            "TestCafe",
+            "Cucumber",
+            "Segment",
+            "Optimizely",
+            "Git",
+            "Agile/Scrum"
+          ]
+        },
+        {
+          "companyName": "Lviv City Council",
+          "position": "Chief Specialist",
+          "address": {
+            "country": "Ukraine",
+            "city": "Lviv"
+          },
+          "duration": {
+            "start": "Jun 2016",
+            "finish": "Jul 2022"
+          },
+          "responsibilities": [
+            "Organized and facilitated meetings to address urban cadaster issues, fostering collaboration and problem-solving among stakeholders",
+            "Generated new datasets for future publication on the urban cadaster portal, contributing to the transparency and accessibility of urban planning information",
+            "Managed and maintained the urban planning cadaster portal for the city of Lviv, ensuring its accuracy and functionality",
+            "Conducted initial data processing of cadaster information, laying the groundwork for further analysis and utilization in urban planning initiatives"
+          ],
+          "techStack": []
+        }
+      ]
+    },
+    "notableProjects": {
+      "title": "notable projects",
+      "projects": [
+        {
+          "title": "billable project - operation management system",
+          "description": "Web-based platform that automates complex operational workflows and supports end-to-end project execution. The application integrates project planning, procurement, compliance management, inventory tracking, scheduling, and installation processes, providing role-based access, workflow orchestration, and operational visibility across multiple business functions."
+        },
+        {
+          "title": "non-billable project - internal learning & mentorship project",
+          "description": "Educational full-stack software project aimed at delivering a production-like development environment for students. The project included frontend and backend development, code quality setup, collaborative workflows, and mentoring activities."
+        },
+        {
+          "title": "billable project - transportation management software",
+          "description": "Web-based transportation management platform that helps logistics companies optimize planning, route management, load operations, vehicle tracking, document automation, and reporting processes. The solution supports day-to-day transportation operations and business analytics."
+        },
+        {
+          "title": "billable project - transportation management software",
+          "description": "Enterprise-scale web application maintained under a micro-frontend architecture. The platform included analytics, feature management, and user behavior tracking capabilities. Focus was placed on scalability, maintainability, and continuous delivery."
+        }
+      ]
+    },
+    "education": {
+      "title": "education",
+      "list": [
+        {
+          "educationalInstitution": "lviv polytechnic national university",
+          "degree": "Master of Science",
+          "specialty": "Geoinformation systems and technologies",
+          "address": {
+            "country": "Ukraine",
+            "city": "Lviv"
+          },
+          "duration": {
+            "start": "Sep 2010",
+            "finish": "Dec 2011"
+          }
+        },
+        {
+          "educationalInstitution": "lviv polytechnic national university",
+          "degree": "Bachelor of Science",
+          "specialty": "Geodesy, cartography, and land management",
+          "address": {
+            "country": "Ukraine",
+            "city": "Lviv"
+          },
+          "duration": {
+            "start": "Sep 2006",
+            "finish": "Jun 2010"
+          }
+        }
+      ]
+    },
+    "additional": {
+      "title": "additional",
+      "languages": [
+        "Fluent in Ukrainian",
+        "English level B1(intermediate strong)"
+      ],
+      "trainings": [
+        "EPAM front-end online program",
+        "Logos IT academy: programming basics, HTML/CSS, JavaScript, JavaScript Advanced",
+        "English course: Green forest",
+        "Online Course in HTML, CSS, JavaScript (Sololearn)",
+        "Geodatabase management systems",
+        "Online Course in Angular 9 (Udemy)",
+        "Online Course in React JS 2020 (Udemy)"
+      ]
+    },
+    "socials": {
+      "title": "socials",
+      "list": [
+        {
+          "title": "LinkedIn",
+          "url": "https://www.linkedin.com/in/serhii-staryk"
+        },
+        {
+          "title": "Github",
+          "url": "https://github.com/serhiistaryk"
+        },
+        {
+          "title": "Gitlab",
+          "url": "https://gitlab.com/SerhiiStaryk"
+        }
+      ]
+    }
+  }
+}
