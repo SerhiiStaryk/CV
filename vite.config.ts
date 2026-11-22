@@ -13,12 +13,12 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      '@components': path.resolve(__dirname, './src/components'),
-      '@shared': path.resolve(__dirname, './src/shared'),
-      '@entities': path.resolve(__dirname, './src/entities'),
-      '@pages': path.resolve(__dirname, './src/pages'),
-      '@app': path.resolve(__dirname, './src/app'),
-      '@': path.resolve(__dirname, './src'),
+      '@components': path.resolve(import.meta.dirname, './src/components'),
+      '@shared': path.resolve(import.meta.dirname, './src/shared'),
+      '@entities': path.resolve(import.meta.dirname, './src/entities'),
+      '@pages': path.resolve(import.meta.dirname, './src/pages'),
+      '@app': path.resolve(import.meta.dirname, './src/app'),
+      '@': path.resolve(import.meta.dirname, './src'),
     },
   },
 });
